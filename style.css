@@ -1,0 +1,12 @@
+.center{
+    display:grid;
+    justify-content: center;
+}
+
+
+#dyn{
+    display:none;
+
+
+    color: blue;
+}
